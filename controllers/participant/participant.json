@@ -1,8 +1,8 @@
 {
   "name": "Pratyush",
   "description": "Nothing",
-  "team": ["Pratyush"],
+  "team": "Pratyush",
   "organization": "IIT Kanpur",
-  "country": "ISO 3166-1 alpha-2 country IN",
+  "country": "IN",
   "programming": "Python"
 }
